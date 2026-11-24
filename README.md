@@ -15,6 +15,7 @@ PDF-Formulare überträgt.
 |---|---|---|
 | [**mietrecht-rag**](https://github.com/Tim995XX/mietrecht-rag) | Beantwortet Mietrechtsfragen in Alltagssprache und belegt jede Aussage mit dem Paragraphen. Treffer der Suche mit eigenem Testset von 0,76 auf 0,96 gesteigert, jede Änderung vorher mit Abbruchkriterium festgelegt. | Python, Embeddings, RAG, Streamlit, pytest |
 | [**flugsuche-go**](https://github.com/Tim995XX/flugsuche-go) | Backend, das mehrere Anbieter parallel abfragt, unterschiedliche JSON-Formate vereinheitlicht und mit Timeout, Cache und Deduplizierung die günstigsten Flüge liefert. | Go, REST, Redis, Docker |
+| [**lagerverwaltung-java**](https://github.com/Tim995XX/lagerverwaltung-java) | Lagerverwaltung als REST-API: Wareneingang, Kommissionierung und Transportaufträge; was sich nicht automatisch buchen lässt, landet auf dem Klärplatz. Aus meiner Erfahrung im Lager-Leitstand entstanden. | Java 21, Spring Boot, JPA, JUnit, Docker |
 | [**finance-intel**](https://github.com/Tim995XX/finance-intel) | Tägliche Datenpipeline aus acht Quellen (Kurse, Nachrichten, Insider-Meldungen) mit Analyse-Dashboard; prüft Chartsignale mit getrennten Trainings- und Testdaten gegen den Zufall. | Python, SQLite, Streamlit, Plotly, Cron |
 | [**jobsuche-fiae**](https://github.com/Tim995XX/jobsuche-fiae) | Durchsucht vier Jobbörsen gleichzeitig, entfernt Duplikate und bewertet, wie einsteigerfreundlich eine Stelle ist. Aus meiner eigenen Bewerbungsphase entstanden. | Python, REST, RSS/XML, pytest |
 | [**open-data-monitor**](https://github.com/Tim995XX/open-data-monitor) | Beobachtet govdata.de, Bundesgesetze und Abstimmungen im EU-Parlament und macht Änderungen über die Zeit auswertbar, bis auf einzelne Wörter in Gesetzestexten. | Python, SQLite, REST, XML |
@@ -26,8 +27,8 @@ dass das Ergebnis gleich bleibt.
 ### Kenntnisse
 
 - **Praxis:** Python · SQL / SQLite · Git · REST-APIs · automatisierte Tests (pytest) · Django · Streamlit
-- **Kenntnisse:** Java · C · Go · HTML5 / CSS · MySQL · Linux
-- **Grundkenntnisse:** JavaScript · C# · PHP
+- **Kenntnisse:** Java · C · HTML5 / CSS · MySQL
+- **Grundkenntnisse:** Go · Linux · JavaScript · C# · PHP
 - **Methoden:** OOP · UML · Scrum · Fehleranalyse · Anwenderbetreuung
 - **Werkzeuge:** VS Code · Jupyter · KI-gestützte Entwicklung (Claude), gezielt eingesetzt und überprüft
 
