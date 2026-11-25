@@ -3,7 +3,8 @@
 **Fachinformatiker für Anwendungsentwicklung (IHK, 06/2026)** aus Leipzig, auf der Suche nach
 einer Festanstellung als Anwendungs- bzw. Junior-Softwareentwickler. Verfügbar ab sofort.
 
-Vor der IT habe ich mehrere Jahre im Lager-Leitstand mit WAMAS und SAP gearbeitet: Anwender
+Vor der IT habe ich rund vier Jahre in der Logistik gearbeitet, davon knapp anderthalb im
+Lager-Leitstand mit WAMAS und SAP: Anwender
 betreut, Buchungsfehler analysiert, mit der EDV Lösungen gefunden. Daher weiß ich, wie Software
 im Arbeitsalltag genutzt wird und wo sie Menschen ausbremst. Im Praktikum habe ich mit Python
 und Django eine Anwendung gebaut, die Kundendaten aus E-Mails ausliest und automatisch in
